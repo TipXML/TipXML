@@ -1,4 +1,10 @@
-### Hi there 👋
+###Learning:
+Python
+HTML
+CSS
+JS
+
+
 
 <!--
 **TipXML/TipXML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
