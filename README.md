@@ -1,9 +1,9 @@
 ### Learning:
 
-Python
-HTML
-CSS
-JS
+<p>Python</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>JS</p>
 
 
 
